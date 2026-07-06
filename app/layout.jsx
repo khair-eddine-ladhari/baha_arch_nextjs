@@ -24,6 +24,9 @@ export const metadata = {
     description: "Architecture and design portfolio by Baha Architecture.",
     images: ["/images/og-image.jpg"],
   },
+  other: {
+    "google-site-verification": "_8-s7JMgtw91TTPCtSR3NG0j74FwyjsmG5Du5jrJHP4",
+  },
 };
 
 export default function RootLayout({ children }) {
